@@ -1,5 +1,11 @@
 # English
 
+## Way to Learn English
+
+- Recite words
+
+## Common English Words and Phrases
+
 aka: abbr. 又名，亦称 (also known as)
 
 section: 部分
