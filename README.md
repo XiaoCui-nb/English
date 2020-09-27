@@ -16,3 +16,5 @@ TL;DR.: Too long; didn't read.
 BTW: By the way. 顺便说一下。
 
 lol: LOL, or lol, is an initialism for laugh(ing) out loud
+
+where it soon went viral 很快传播开来
