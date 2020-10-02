@@ -18,3 +18,5 @@ BTW: By the way. 顺便说一下。
 lol: LOL, or lol, is an initialism for laugh(ing) out loud
 
 where it soon went viral 很快传播开来
+
+recap 回顾 from [twitter](https://twitter.com/jessicamckellar/status/1311349448295854080)
