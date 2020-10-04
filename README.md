@@ -5,6 +5,8 @@
 - Recite words
 - Listen BBC
 
+[Guide to English](https://github.com/Gaotianhe/Guide-to-English)
+
 ## Common English Words and Phrases
 
 aka: abbr. 又名，亦称 (also known as)
